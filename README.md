@@ -4,4 +4,4 @@ Behance: https://www.behance.net/aftertaste
 
 E-mail: andronov.savely@yandex.ru
 
-Postcrossing: https://www.postcrossing.com/
+Postcrossing: https://www.postcrossing.com/user/hschhhwwwo0o
