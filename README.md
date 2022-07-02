@@ -1,4 +1,4 @@
-Frontend developer
+Frontend developer, Russia
 
 Reach me:
 
