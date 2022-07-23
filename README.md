@@ -1,5 +1,7 @@
 Frontend developer, Russia
 
+![](https://komarev.com/ghpvc/?username=hschhhwwwo0o&color=ff69b4)
+
 Hard skills:
 
 - Git, GitHub, BitBucket
