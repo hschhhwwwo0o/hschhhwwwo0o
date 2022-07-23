@@ -4,6 +4,7 @@ Hard skills:
 
 - Git, GitHub, BitBucket
 - TypeScript, JavaScript
+- Node.js
 - React.js, Next.js
 - React Native (A little bit.)
 - Vue.js
