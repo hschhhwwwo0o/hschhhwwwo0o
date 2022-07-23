@@ -1,6 +1,6 @@
 Frontend developer, Russia
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hschhhwwwo0o)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hschhhwwwo0o#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 Hard skills:
 
