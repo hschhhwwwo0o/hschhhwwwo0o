@@ -6,7 +6,7 @@ Hard skills:
 - TypeScript, JavaScript
 - Node.js
 - React.js, Next.js
-- React Native (A little bit.)
+- React Native (With Expo.) (A little bit.)
 - Vue.js
 - Redux, React-Redux, MobX
 - CSS, SCSS, Stylus, TailwindCSS
