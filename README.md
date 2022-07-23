@@ -2,6 +2,7 @@ Frontend developer, Russia
 
 Hard skills:
 
+- Git, GitHub, BitBucket
 - TypeScript, JavaScript
 - React.js, Next.js
 - React Native (A little bit.)
@@ -9,6 +10,7 @@ Hard skills:
 - Redux, React-Redux, MobX
 - CSS, SCSS, Stylus, TailwindCSS
 - Axios, Feathers
+- Figma
 
 Reach me:
 
