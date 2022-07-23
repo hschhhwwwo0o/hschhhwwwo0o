@@ -2,6 +2,7 @@ Frontend developer, Russia
 
 Hard skills:
 
+- TypeScript, JavaScript
 - React.js, Next.js
 - Vue.js
 - Redux, React-Redux, MobX
