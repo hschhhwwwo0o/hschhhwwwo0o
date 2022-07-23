@@ -1,5 +1,13 @@
 Frontend developer, Russia
 
+Hard skills:
+
+- React.js, Next.js
+- Vue.js
+- Redux, React-Redux, MobX
+- CSS, SCSS, Stylus, TailwindCSS
+- Axios, Feathers
+
 Reach me:
 
 - Telegram: https://t.me/hschhhwwwo0o
