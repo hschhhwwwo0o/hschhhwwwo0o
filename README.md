@@ -26,4 +26,4 @@ Reach me:
 - Postcrossing: https://www.postcrossing.com/user/hschhhwwwo0o
 
 
-💛
+I hate the Safari browser
