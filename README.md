@@ -24,6 +24,3 @@ Reach me:
 - Behance: https://www.behance.net/hschhhwwwo0o
 - E-mail: andronov.savely@yandex.ru
 - Postcrossing: https://www.postcrossing.com/user/hschhhwwwo0o
-
-
-I hate the Safari browser
