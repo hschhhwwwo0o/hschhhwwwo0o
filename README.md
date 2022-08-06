@@ -25,4 +25,4 @@ Reach me:
 - E-mail: andronov.savely@yandex.ru
 - Postcrossing: https://www.postcrossing.com/user/hschhhwwwo0o
 
-Продаю гараж
+Продам гараж
