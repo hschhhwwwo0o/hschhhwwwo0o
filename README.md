@@ -5,7 +5,7 @@ Frontend developer, Russia
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&theme=onedark_duo&hide_border=true#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
 
-Hard skills:
+###### Hard skills:
 
 - Git, GitHub, BitBucket
 - JavaScript, TypeScript
@@ -17,17 +17,17 @@ Hard skills:
 - CSS, SCSS, Stylus, TailwindCSS
 - Axios, node-fetch, GraphQL (A little bit.)
 
-Task managment:
+###### Task managment:
 
 - ClickUp
 - ZenHub
 
-UI development tools:
+###### UI development tools:
 
 - Figma
 - Adobe Photoshop
 
-Reach me:
+###### Reach me:
 
 - Telegram: https://t.me/hschhhwwwo0o
 - Behance: https://www.behance.net/hschhhwwwo0o
