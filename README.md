@@ -15,7 +15,7 @@ Hard skills:
 - React Native (With Expo.) (A little bit.)
 - Redux, MobX
 - CSS, SCSS, Stylus, TailwindCSS
-- Axios, Feathers, node-fetch
+- Axios, node-fetch, GraphQL (A little bit.)
 
 Task managment:
 
