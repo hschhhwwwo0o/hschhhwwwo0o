@@ -13,7 +13,7 @@ Hard skills:
 - React.js, Next.js
 - Vue.js
 - React Native (With Expo.) (A little bit.)
-- Redux, React-Redux, MobX
+- Redux, MobX
 - CSS, SCSS, Stylus, TailwindCSS
 - Axios, Feathers, node-fetch
 
