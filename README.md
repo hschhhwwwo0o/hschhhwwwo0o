@@ -22,7 +22,7 @@ Task managment:
 - ClickUp
 - ZenHub
 
-Develop UI instruments:
+UI development tools:
 
 - Figma
 - Adobe Photoshop
