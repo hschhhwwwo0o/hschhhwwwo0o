@@ -11,11 +11,11 @@ Hard skills:
 - JavaScript, TypeScript
 - Node.js
 - React.js, Next.js
-- React Native (With Expo.) (A little bit.)
 - Vue.js
+- React Native (With Expo.) (A little bit.)
 - Redux, React-Redux, MobX
 - CSS, SCSS, Stylus, TailwindCSS
-- Axios, Feathers
+- Axios, Feathers, node-fetch
 
 Task managment:
 
