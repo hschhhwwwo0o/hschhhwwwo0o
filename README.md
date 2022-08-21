@@ -12,10 +12,10 @@ Frontend developer, Russia
 - Node.js
 - React.js, Next.js
 - Vue.js
-- React Native (With Expo.) (A little bit.)
+- React Native (With Expo.)
 - Redux, MobX
 - CSS, SCSS, Stylus, TailwindCSS
-- Axios, node-fetch, GraphQL (A little bit.)
+- Axios, node-fetch, GraphQL
 
 ###### Task managment:
 
