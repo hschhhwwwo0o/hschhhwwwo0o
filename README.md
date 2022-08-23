@@ -22,6 +22,12 @@ Frontend developer, Russia
 - ClickUp
 - ZenHub
 
+###### Code:
+
+- Visual Studio Code
+- Prettier
+- ESLint
+
 ###### UI development tools:
 
 - Figma
