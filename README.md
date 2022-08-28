@@ -34,4 +34,4 @@ Frontend developer, Russia
 - E-mail: andronov.savely@yandex.ru
 - Postcrossing: https://www.postcrossing.com/user/hschhhwwwo0o
 
-Продам гараж
+<p align="center" style="text-align: center;">💛💛💛</p>
