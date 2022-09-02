@@ -35,4 +35,4 @@
 - Postcrossing: https://www.postcrossing.com/user/hschhhwwwo0o
 
 
-<p align="center" style="text-align: center;">💛💛💛</p>
+<p align="center" style="text-align: center;">...</p>
