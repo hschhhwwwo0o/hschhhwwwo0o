@@ -33,6 +33,4 @@
 - E-mail: andronov.savely@yandex.ru
 - Postcrossing: https://www.postcrossing.com/user/hschhhwwwo0o
 
-<img src="./assets/flowers.png" />
-
-<!-- <p align="center" style="text-align: center;">...</p> -->
+<p align="center" style="text-align: center;">...</p>
