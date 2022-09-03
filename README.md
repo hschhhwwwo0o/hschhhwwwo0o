@@ -1,8 +1,6 @@
-<p align="center" style="text-align: center;"> 20 y.o Frontend developer, Russia</p>
+20 y.o Frontend developer, Russia
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&hide_border=true&fire=FFA287&currStreakLabel=FFA287&ring=FFA287#gh-light-mode-only" height="185">
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&hide_border=true&fire=FFA287&currStreakLabel=FFA287&ring=FFA287#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hschhhwwwo0o&bg_color=ffffff&color=f6724b&line=ffa287&point=f6724b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
 
