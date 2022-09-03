@@ -32,4 +32,4 @@
 <a href="https://www.behance.net/hschhhwwwo0o"> Behance </a>
 <a href="https://www.postcrossing.com/user/hschhhwwwo0o"> Postcrossing</a>
 
-<p align="center" style="text-align: center;">***</p>
+<p align="center">***</p>
