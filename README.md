@@ -1,5 +1,3 @@
-<img src="./assets/gradient-line-2.png" />
-
 20 y.o Frontend developer, Russia
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hschhhwwwo0o&hide_border=true#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
@@ -35,4 +33,6 @@
 - E-mail: andronov.savely@yandex.ru
 - Postcrossing: https://www.postcrossing.com/user/hschhhwwwo0o
 
-<p align="center" style="text-align: center;">...</p>
+<img src="./assets/flowers.png" />
+
+<!-- <p align="center" style="text-align: center;">...</p> -->
