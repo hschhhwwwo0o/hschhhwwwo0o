@@ -4,6 +4,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&theme=onedark_duo&hide_border=true#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hschhhwwwo0o&bg_color=ffffff&color=f6724b&line=ffa287&point=f6724b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
+
 ###### Hard skills:
 
 - Git, GitHub, BitBucket
