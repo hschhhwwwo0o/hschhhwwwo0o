@@ -1,4 +1,4 @@
-<img src="./assets/gradient-line.png" />
+<img src="./assets/gradient-line-2.png" />
 
 20 y.o Frontend developer, Russia
 
