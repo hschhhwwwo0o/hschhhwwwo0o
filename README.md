@@ -1,6 +1,6 @@
 20 y.o Frontend developer, Russia
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hschhhwwwo0o&hide_border=true#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&hide_border=true&fire=FFA287&currStreakLabel=FFA287&ring=FFA287#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&theme=onedark_duo&hide_border=true#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
