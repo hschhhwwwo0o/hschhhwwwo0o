@@ -1,8 +1,4 @@
-<p align="center">
-
-20 y.o Frontend developer, Russia
-
-</p>
+<p align="center" style="text-align: center;"> 20 y.o Frontend developer, Russia</p>
 
 <p align="center">
 
