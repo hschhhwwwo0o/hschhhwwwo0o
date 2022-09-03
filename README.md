@@ -28,8 +28,8 @@
 
 ###### Reach me:
 
-<a href="https://t.me/hschhhwwwo0o">Telegram</a>
-<a href="https://www.behance.net/hschhhwwwo0o">Behance</a>
-<a href="https://www.postcrossing.com/user/hschhhwwwo0o">Postcrossing</a>
+<a href="https://t.me/hschhhwwwo0o">Telegram </a>
+<a href="https://www.behance.net/hschhhwwwo0o"> Behance </a>
+<a href="https://www.postcrossing.com/user/hschhhwwwo0o"> Postcrossing</a>
 
 <p align="center" style="text-align: center;">...</p>
