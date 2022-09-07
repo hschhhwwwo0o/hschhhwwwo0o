@@ -11,7 +11,7 @@
 - Node.js
 - React.js, Next.js
 - Vue.js
-- React Native (With Expo.)
+- React Native, Expo
 - Redux, MobX
 - CSS, SCSS, Stylus, TailwindCSS
 - Axios, node-fetch, GraphQL
