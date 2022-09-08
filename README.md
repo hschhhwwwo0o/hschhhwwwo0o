@@ -1,4 +1,4 @@
-20 y.o Frontend developer, Russia
+20 y.o Frontend developer. Russia, UTC +3
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&hide_border=true&fire=FFA287&currStreakLabel=FFA287&ring=FFA287#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
