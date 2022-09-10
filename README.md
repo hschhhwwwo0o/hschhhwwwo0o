@@ -26,6 +26,12 @@
 - Figma
 - Adobe Photoshop
 
+###### Deployments:
+
+- Vercel
+- Render
+- Heroku
+
 ###### Reach me:
 
 <a href="https://t.me/hschhhwwwo0o">Telegram </a>
