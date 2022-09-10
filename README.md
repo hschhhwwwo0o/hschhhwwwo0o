@@ -28,8 +28,8 @@
 
 ###### Deployments:
 
-- 💛 Vercel
-- 💛 Render
+- Vercel 💛
+- Render 💛
 - Heroku 
 
 ###### Reach me:
