@@ -28,9 +28,9 @@
 
 ###### Deployments:
 
-- Vercel
-- Render
-- Heroku
+- Vercel 💛
+- Render 💛
+- Heroku 
 
 ###### Reach me:
 
