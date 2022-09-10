@@ -16,6 +16,12 @@
 - CSS, SCSS, Stylus, TailwindCSS
 - Axios, node-fetch, GraphQL
 
+###### Deployments:
+
+- Render ❤
+- Vercel ❤
+- Heroku 
+
 ###### Task managment:
 
 - ClickUp
@@ -25,12 +31,6 @@
 
 - Figma
 - Adobe Photoshop
-
-###### Deployments:
-
-- Render 💛
-- Vercel 💛
-- Heroku 
 
 ###### Reach me:
 
