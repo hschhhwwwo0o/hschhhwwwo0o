@@ -13,14 +13,14 @@
 - Node.js
 - React.js, Next.js
 - Vue.js
-- React Native, Expo
 - Redux, MobX
+- Axios, GraphQL, node-fetch
+- React Native, Expo
 - CSS, SCSS, Stylus, TailwindCSS
-- Axios, node-fetch, GraphQL
 
 ###### Deployments:
 
-- Render ❤
+- Render
 - Vercel ❤
 - Heroku 
 
