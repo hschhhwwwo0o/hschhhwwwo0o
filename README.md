@@ -40,4 +40,6 @@
 <a href="https://www.behance.net/hschhhwwwo0o"> Behance. </a>
 <a href="https://expo.dev/@hschhhwwwo0o"> Expo. </a>
 
+Никто не может быть признан виновным в совершении приступления иначе как по приговору суда и в соответствии с законом УПК РСФСР ст 13
+
 <p align="center">* * *</p>
