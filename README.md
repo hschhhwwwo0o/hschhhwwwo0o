@@ -21,7 +21,7 @@
 ###### Deployments:
 
 - Render
-- Vercel ❤
+- Vercel
 - Heroku 
 
 ###### Task managment:
