@@ -37,6 +37,5 @@
 ###### Reach me:
 
 <a href="https://t.me/hschhhwwwo0o">Telegram. </a>
-<a href="https://www.behance.net/hschhhwwwo0o"> Behance. </a>
 <a href="https://expo.dev/@hschhhwwwo0o"> Expo. </a>
 
