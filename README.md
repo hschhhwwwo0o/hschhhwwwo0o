@@ -1,4 +1,4 @@
-20 y.o., Frontend developer. UTC +3. macOS. RU. Not looking for a job. 
+20 y.o., Frontend developer. Russia. UTC +3. macOS. Not looking for a job. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&hide_border=true&ring=FFA287&background=00000000&fire=FFA287&sideNums=DDDDDD&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=DDDDDD&border=DD272700&stroke=DD272700#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
