@@ -6,6 +6,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hschhhwwwo0o&bg_color=00000000&color=f6724b&line=ffa287&point=f6724b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+OS: macOS
+
 ###### Technical Skills:
 
 - Git, GitHub, BitBucket
