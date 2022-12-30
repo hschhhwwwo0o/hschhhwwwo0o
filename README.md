@@ -1,12 +1,10 @@
-20 y.o., Frontend developer. UTC +3. Not looking for a job. 
+20 y.o., Frontend developer. UTC +3. macOS. RU. Not looking for a job. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&hide_border=true&ring=FFA287&background=00000000&fire=FFA287&sideNums=DDDDDD&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=DDDDDD&border=DD272700&stroke=DD272700#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&hide_border=true&fire=FFA287&currStreakLabel=FFA287&ring=FFA287#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hschhhwwwo0o&bg_color=00000000&color=f6724b&line=ffa287&point=f6724b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-OS: macOS
 
 ###### Technical Skills:
 
