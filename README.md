@@ -1,4 +1,10 @@
-21 y.o., frontend developer. Russia, Balashiha. UTC +3. Working on macOS. Not looking for a job. 
+21 y.o. Experience as a frontend developer ~ 2 years. I've been into development for ~ 4 years. Developed websites, mobile/desktop applications.
+
+Besides the main frontend activity I also like to do frontops; I read books about software architecture and other technical literature.
+
+I have a great love for organizational issues and workflows.
+
+Russia, Balashiha. UTC +3. Working on macOS. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hschhhwwwo0o&hide_border=true&ring=FFA287&background=00000000&fire=FFA287&sideNums=DDDDDD&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=DDDDDD&border=DD272700&stroke=DD272700#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
@@ -17,6 +23,8 @@
 - Axios, GraphQL, node-fetch
 - React Native, Expo
 - CSS, SCSS, Stylus, TailwindCSS
+- Metamask, WalletConnect
+- FrontOps
 
 ###### Deployments:
 
