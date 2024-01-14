@@ -19,7 +19,7 @@ Russia, Balashiha. UTC +3. Working on macOS.
 - Node.js
 - React.js, Next.js
 - Vue.js
-- Redux, MobX
+- Redux, MobX, Pinia
 - Axios, GraphQL, node-fetch
 - React Native, Expo
 - CSS, SCSS, Stylus, TailwindCSS
